@@ -1,28 +1,3 @@
-
-
-Skip to content
-Using Rochester Institute of Technology Mail with screen readers
-
-1 of 1,437
-Fwd: project3
-
-Drake Busdiecker
-Attachments
-12:19 AM (13 minutes ago)
-to Jessica
-
-
-
----------- Forwarded message ---------
-From: Drake Busdiecker <dxb9392@pinkfloyd.cs.rit.edu>
-Date: Fri, Oct 18, 2019 at 12:15 AM
-Subject: project3
-To: <dxb9392@rit.edu>
-
-
-
-Attachments area
-
 /*threads.c
  * Main program for CSCI-243 Project number 3.
  * author: Drake Busdiecker*/
